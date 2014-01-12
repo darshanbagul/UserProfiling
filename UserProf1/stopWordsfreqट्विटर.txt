@@ -1,0 +1,10 @@
+vodafon: 3
+bahasa: 2
+melayu: 1
+deutsch: 1
+espa: 1
+euskara: 1
+galego: 1
+lolcatz: 1
+nederland: 1
+polski: 1

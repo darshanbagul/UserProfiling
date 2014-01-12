@@ -1,0 +1,10 @@
+yahoo: 22
+travel: 19
+margaret: 17
+address: 11
+racer: 9
+extrem: 9
+high: 9
+real: 8
+ralli: 8
+actor: 7

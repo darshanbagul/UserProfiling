@@ -1,0 +1,10 @@
+ieee: 47
+public: 9
+confer: 9
+associ: 7
+xplore: 7
+standard: 6
+discount: 5
+journal: 4
+web: 4
+tablet: 4

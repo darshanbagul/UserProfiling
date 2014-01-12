@@ -1,0 +1,10 @@
+bit: 96
+pharm: 72
+goa: 68
+consult: 55
+visit: 16
+video: 16
+studio: 16
+structur: 15
+media: 15
+found: 15

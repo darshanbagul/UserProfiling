@@ -1,0 +1,10 @@
+facebook: 6
+word: 4
+life: 3
+male: 3
+privaci: 3
+sign: 2
+javascript: 2
+month: 2
+check: 2
+creat: 2
